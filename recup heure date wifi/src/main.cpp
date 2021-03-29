@@ -15,8 +15,8 @@
 
 #include <time.h>
 
-const char* ssid = "Bbox-E9ED9E75-pro-2.4G";
-const char* password = "Vivimimi123456789";
+const char* ssid = "XXX";
+const char* password = "XXX";
 
 const int decalage = 2;  // la valeur dépend de votre fuseau horaire. Essayez 2 pour la France. 
 const int delaiDemande = 5 * 60; // nombre de secondes entre deux demandes consécutives au serveur NTP
